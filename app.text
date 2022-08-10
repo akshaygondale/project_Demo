@@ -1,0 +1,10 @@
+<h1 style="color:red;text-align:center">Hello World Program</h1>
+<h1>God Is Exist</h1>
+
+<form action="firsturl"  method="post">
+     <table bgcolor="cyan" border="1" align="center">
+	<tr>
+	    <td><input="text"  name="pname"></td>
+                    </tr>
+</form>
+
